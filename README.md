@@ -6,7 +6,7 @@
 ![made-with-folium](https://img.shields.io/badge/Folium-0.11-7fff3b?style=for-the-badge&logo=Leaflet)
 ![made-with-foursquare](https://img.shields.io/badge/Foursquare--F94877?style=for-the-badge&logo=Foursquare)
 
-### P.S. Folium maps are not loading on github. To see the maps you have to run the notebook on your preferred environment and don't forget to make the notebook `Trusted`.
+### Note : Folium maps are not loading on github. To see the maps you have to run the notebook on your preferred environment and don't forget to make the notebook `Trusted`.
 
 Starting a restaurant business is no less than a herculean task. In a market where everybody wants to open a restaurant there are few things which restaurateurs have to keep in mind before starting up the business which includes cuisine, ambience, quality, services and location. Choosing a happening place could help restaurateurs keep an upper hand in the market. A happening place would grant you with happening consumers. Not everyone belongs to everywhere. Same, not every place is for restaurant. It is really difficult than some people think it might. A place could take you to the heights or could even turn into dud. Like, how would you reach to the consumers if it’s not in the right place? No consumers mean No business. It is as straight as that.
 
